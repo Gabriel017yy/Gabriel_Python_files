@@ -90,7 +90,7 @@ class Backtest:
 # 添加以下代码以运行回测和绘制结果
 if __name__ == "__main__":
     # 示例数据加载
-    data = yf.download('PDD', start='2021-01-01', end='2025-01-01')
+    data = yf.download('AAPL', start='2021-01-01', end='2025-01-01')
     backtest = Backtest(data)
     backtest.backtest_strategy()
     backtest.plot_results()
