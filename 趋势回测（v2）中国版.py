@@ -90,7 +90,7 @@ class Backtest:
 # 添加以下代码以运行回测和绘制结果
 if __name__ == "__main__":
     # 示例数据加载
-    stock_code = "002568"  # 例如：拼多多的股票代码
+    stock_code = "002568"  # 例如：百润股份的股票代码
     data = ak.stock_zh_a_hist(symbol=stock_code, period="daily", start_date="20210101", end_date="20250101")
     data.set_index('日期', inplace=True)
     backtest = Backtest(data)
