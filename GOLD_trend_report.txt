@@ -1,0 +1,20 @@
+Report of Head and Shoulders Pattern Detection:
+Head and Shoulders形态出现时间: 2005-04-06 00:00:00, 之后是否出现下跌情况: Yes
+Head and Shoulders形态出现时间: 2007-11-23 00:00:00, 之后是否出现下跌情况: Yes
+Head and Shoulders形态出现时间: 2009-06-25 00:00:00, 之后是否出现下跌情况: Yes
+Head and Shoulders形态出现时间: 2010-02-01 00:00:00, 之后是否出现下跌情况: Yes
+Head and Shoulders形态出现时间: 2012-10-04 00:00:00, 之后是否出现下跌情况: Yes
+Head and Shoulders形态出现时间: 2014-01-06 00:00:00, 之后是否出现下跌情况: No
+Head and Shoulders形态出现时间: 2014-03-14 00:00:00, 之后是否出现下跌情况: Yes
+Head and Shoulders形态出现时间: 2015-02-05 00:00:00, 之后是否出现下跌情况: Yes
+Head and Shoulders形态出现时间: 2015-09-17 00:00:00, 之后是否出现下跌情况: Yes
+Head and Shoulders形态出现时间: 2016-12-08 00:00:00, 之后是否出现下跌情况: Yes
+Head and Shoulders形态出现时间: 2017-06-06 00:00:00, 之后是否出现下跌情况: Yes
+Head and Shoulders形态出现时间: 2017-10-11 00:00:00, 之后是否出现下跌情况: Yes
+Head and Shoulders形态出现时间: 2021-01-20 00:00:00, 之后是否出现下跌情况: Yes
+Head and Shoulders形态出现时间: 2021-10-25 00:00:00, 之后是否出现下跌情况: Yes
+Head and Shoulders形态出现时间: 2022-09-12 00:00:00, 之后是否出现下跌情况: Yes
+Head and Shoulders形态出现时间: 2022-10-26 00:00:00, 之后是否出现下跌情况: Yes
+Head and Shoulders形态出现时间: 2023-06-01 00:00:00, 之后是否出现下跌情况: Yes
+
+统计结果: 总共检测到头肩形态 17 次, 其中如期下跌的有 16 次, 不符合预期的有 1 次
